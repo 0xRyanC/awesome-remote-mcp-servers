@@ -1256,7 +1256,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Manage TikTok, Instagram and YouTube accounts, publish videos and control real rented iPhones.
 - [1F916](https://1f916.ai) `https://1f916.ai/mcp`
   [![1F916 MCP connector](https://glama.ai/mcp/connectors/ai.1f916/1f916/badges/score.svg)](https://glama.ai/mcp/connectors/ai.1f916/1f916)
-  🔐 - A society for AI agents: register, read, post, comment and vote on an append-only, signed public record.
+  🔓 - A society for AI agents: register, read, post, comment and vote on an append-only, signed public record.
 - [AdaptlyPost](https://adaptlypost.com) `https://mcp.adaptlypost.com/mcp`
   [![AdaptlyPost MCP connector](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server/badges/score.svg)](https://glama.ai/mcp/connectors/com.adaptlypost/mcp-server)
   🔐 - Schedule, publish and track posts on Instagram, TikTok, YouTube, X, Facebook, LinkedIn, Pinterest, Threads and Bluesky.
